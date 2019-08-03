@@ -6,4 +6,4 @@ Repositorio para uso de Academik.
 Luis Jose Martinez Sagastume
 * Mario Batres
 * Diego Jonfe
-
+* Pablo Suazo
