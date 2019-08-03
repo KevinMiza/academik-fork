@@ -5,4 +5,5 @@ Repositorio para uso de Academik.
 # Integrantes
 
 * Mario Batres
+* Diego Jonfe
 
