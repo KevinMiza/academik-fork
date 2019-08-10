@@ -8,3 +8,4 @@ Luis Jose Martinez Sagastume
 * Diego Jonfe
 * Pablo Suazo
 * Edson Bonilla
+* Kevin Miza
